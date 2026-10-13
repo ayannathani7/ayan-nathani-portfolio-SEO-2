@@ -203,4 +203,5 @@ To ensure search engines quickly crawl and rank your portfolio for **Ayan Nathan
 
 © 2026 **Ayan Nathani**. Built with semantic HTML5, modern CSS3, and Vanilla JavaScript.
 #   a y a n - n a t h a n i - p o r t f o l i o - S E O - 2  
+ #   a y a n - n a t h a n i - p o r t f o l i o - S E O - 2  
  
